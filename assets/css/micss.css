@@ -12,6 +12,8 @@
     font-weight: bold;
 }
 
-.negrita{
-    font-weight: bold;
+.form-control{
+    border-style: solid none none;
+    height: 40px;    
+    background-color: #F9F8F2;
 }
