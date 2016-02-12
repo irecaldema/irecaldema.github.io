@@ -1,8 +1,17 @@
-@font-face {
+/*@font-face {
     font-family: "GtekTechnology";
     src: url(http://irecaldema.github.io/assets/fonts/GtekTechnology.ttf);
-}
+}*/
 
 /*.nombre {
     font-family: GtekTechnology;
 }*/
+
+.enlinea{
+    display: inline;
+    font-weight: bold;
+}
+
+.negrita{
+    font-weight: bold;
+}
